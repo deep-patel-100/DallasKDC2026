@@ -1,0 +1,19 @@
+{
+  "name": "KDC Dallas 2026 · The Light Within",
+  "short_name": "KDC Dallas",
+  "description": "Kids' Diwali Celebration at BAPS Shri Swaminarayan Mandir, Dallas: schedule, map, mission stories and your Explorer's Passport.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0c0f33",
+  "theme_color": "#151a4a",
+  "lang": "en",
+  "categories": ["kids", "education", "events"],
+  "icons": [
+    { "src": "assets/icons/icon-192.png?v=2", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/icon-512.png?v=2", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/icon-maskable-512.png?v=2", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
